@@ -4,19 +4,19 @@
     "url": "https://playgeorge.town",
     "icon": "https://icons.duckduckgo.com/ip3/playgeorge.town.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2241,
-    "timeDay": 2661,
-    "timeWeek": 2723,
-    "timeMonth": 2241,
-    "timeYear": 2241,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 2791,
+    "timeDay": 4669,
+    "timeWeek": 3555,
+    "timeMonth": 2791,
+    "timeYear": 2791,
     "dailyMinutesDown": {
-      "2023-01-13": 0
+      "2023-01-13": 23
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-13": 1367,
+      "2023-01-13": 1390,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,

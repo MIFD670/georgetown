@@ -4,7 +4,7 @@
     "url": "https://playgeorge.town",
     "icon": "https://icons.duckduckgo.com/ip3/playgeorge.town.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
     "uptimeDay": "98.95%",
     "uptimeWeek": "99.29%",
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 508,
+      "2023-01-25": 519,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
